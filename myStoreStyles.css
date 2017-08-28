@@ -1,0 +1,38 @@
+body	{font-family: Arial, Verdana, Garamond;
+		font-size: 12pt;
+		color: white;
+		background-color: black}
+		
+th		{font-family: Arial, Verdana, Garamond;
+		font-size: 18pt;
+		color: white;
+		font-weight: bolder;
+		text-align: center;
+		margin-left:auto;
+		margin-right:auto}
+
+td		{text-align: center;
+		margin-left:auto;
+		margin-right:auto}
+		
+a		{text-decoration: none;
+		color: #007FC6}
+		
+table	{width: 50%;
+		margin-left:auto;
+		margin-right:auto}
+		
+		.menu	{text-align: center;
+				width: 750px}
+			
+		.menuword	{width: 19.2%}
+		
+		.menuwordselect	{width: 19.2%; font-weight: bolder}
+		
+		.menupipe	{width: 1%;
+					color: white}
+		
+caption		{caption-side: bottom;
+			font-style: italic}
+img		{margin-left: auto;
+		margin-right: auto}
